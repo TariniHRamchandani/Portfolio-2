@@ -1,0 +1,38 @@
+
+h1{color:aqua}
+*{color: blueviolet;}
+.header{background-color: violet;
+display: flex; 
+justify-content: space-between;}
+h2,p{text-align: center;}
+.grid{display: flex;
+flex-wrap:wrap;
+justify-content: space-evenly ;}
+body{
+    background-color: rgba(186,216,92);
+    background-color: #bad85c;
+}
+.starter{background-color: seashell;}
+.item{background-color: pink;}
+.h9{background-color: plum;}
+.scale{background-color:white;}
+
+
+/*r-red; g-green, b-blue, a-opacity*/
+/*hexadecimal color verification=divide the number by 16 if the number does not come between 1-15 then divide it by 16 again-the remainder and the quotient-order is the quotient and the the remainder after that.
+1=1
+1=2
+3=3
+4=4
+5=5
+6=6
+7=7
+8=8
+9=9
+10=a/A
+11=b/B
+12=c/C
+13=d/D
+14=e/E
+15=f/F
+*/
